@@ -1,6 +1,1 @@
-hello lijing.
-hi lijing.
-third
-fourth
-fifth
-
+this is the first line.
